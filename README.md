@@ -92,29 +92,37 @@ patterns are pretty similar during the weekdays and drastically different during
 <figure>
 <p align="center">
 <img width = "800" height= "auto" src="./images/Figure_1.png" />
-<figcaption style="text-align: center"><b>Figure 1. </b>Map showing the GPS travel trajectories of a college student on Sunday, October 09, 2022.</figcaption>
+</p>
+<p align="center">
+<b>Figure 1. </b>Map showing the GPS travel trajectories of a college student on Sunday, October 09, 2022.
 </p>
 </figure>
 
 <figure>
 <p align="center">
 <img width = "800" height= "auto" src="./images/Figure_2.png" />
-<figcaption style="text-align: center"><b>Figure 2. </b>Maps showing the GPS travel trajectories of a university student on (a) Monday, October 10, 2022 (b) Tuesday, October 11, 2022, (c) Wednesday, October 12, 2022 (d)
-Thursday, October 13, 2022, (e) Friday, October 14, 2022 (f) Saturday, October 15, 2022.</figcaption>
+</p>
+<p align="center">
+<b>Figure 2. </b>Maps showing the GPS travel trajectories of a university student on (a) Monday, October 10, 2022 (b) Tuesday, October 11, 2022, (c) Wednesday, October 12, 2022 (d)
+Thursday, October 13, 2022, (e) Friday, October 14, 2022 (f) Saturday, October 15, 2022.
 </p>
 </figure>
 
 <figure>
 <p align="center">
 <img width = "800" height= "auto" src="./images/Figure_3.png" />
-<figcaption style="text-align: center"><b>Figure 3. </b>GPS track heatmap showing the hotspots on Sunday, October 09, 2022.</figcaption>
+</p>
+<p align="center">
+<b>Figure 3. </b>GPS track heatmap showing the hotspots on Sunday, October 09, 2022.
 </p>
 </figure>
 
 <figure>
 <p align="center">
 <img width = "800" height= "auto" src="./images/Figure_3.png" />
-<figcaption style="text-align: center"><b>Figure 4. </b>GPS track heatmaps showing the hotspots on (a) Monday, October 10, 2022 (b) Tuesday, October 11, 2022, (c) Wednesday, October 12, 2022 (d) Thursday, October 13, 2022, (e) Friday, October 14, 2022 (f) Saturday, October 15, 2022.</figcaption>
+</p>
+<p align="center">
+<b>Figure 4. </b>GPS track heatmaps showing the hotspots on (a) Monday, October 10, 2022 (b) Tuesday, October 11, 2022, (c) Wednesday, October 12, 2022 (d) Thursday, October 13, 2022, (e) Friday, October 14, 2022 (f) Saturday, October 15, 2022.
 </p>
 </figure>
 
@@ -146,7 +154,8 @@ Figure 5.</p>
 <figure>
 <p align="center">
 <img width = "360" height= "auto" src="./images/Figure_5.png" />
-<figcaption style="text-align: center"><b>Figure 5. </b>Graph illustrating the difference between weekdays and weekends in terms of mobility.</figcaption>
+</p>
+<p align="center"><b>Figure 5. </b>Graph illustrating the difference between weekdays and weekends in terms of mobility.
 </p>
 </figure>
 
@@ -161,7 +170,9 @@ and only chooses to use it on weekends when he leaves campus.</p>
 <figure>
 <p align="center">
 <img width = "800" height= "auto" src="./images/Figure_6.png" />
-<figcaption style="text-align: center"><b>Figure 6. </b>(a) Combined mobility tracks of the student within the campus, (b) Line density plot showing most used paths by the student within the campus.</figcaption>
+</p>
+<p align="center">
+<b>Figure 6. </b>(a) Combined mobility tracks of the student within the campus, (b) Line density plot showing most used paths by the student within the campus.
 </p>
 </figure>
 
@@ -181,7 +192,9 @@ indicating periods when he might be in class, working in the lab, or eating in t
 <figure>
 <p align="center">
 <img width = "850" height= "auto" src="./images/Figure_7.png" />
-<figcaption style="text-align: center"><b>Figure 7. </b>Speed vs. time plots for each day.</figcaption>
+</p>
+<p align="center">
+<b>Figure 7. </b>Speed vs. time plots for each day.</figcaption>
 </p>
 </figure>
 
