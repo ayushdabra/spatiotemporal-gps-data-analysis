@@ -119,7 +119,7 @@ Thursday, October 13, 2022, (e) Friday, October 14, 2022 (f) Saturday, October 1
 
 <figure>
 <p align="center">
-<img width = "800" height= "auto" src="./images/Figure_3.png" />
+<img width = "800" height= "auto" src="./images/Figure_4.png" />
 </p>
 <p align="center">
 <b>Figure 4. </b>GPS track heatmaps showing the hotspots on (a) Monday, October 10, 2022 (b) Tuesday, October 11, 2022, (c) Wednesday, October 12, 2022 (d) Thursday, October 13, 2022, (e) Friday, October 14, 2022 (f) Saturday, October 15, 2022.
