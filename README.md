@@ -1,4 +1,4 @@
-# Which is more fun: Weekdays or weekends?
+# Which is More Fun: Weekdays or Weekends? A Spatiotemporal Analysis of GPS Data
 
 ## Tech Stack
 
